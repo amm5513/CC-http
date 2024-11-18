@@ -1,0 +1,19 @@
+Alena Manchester
+CSEC.750.01
+Proof of concept usage document
+
+
+In order to run the http covert channel:
+
+1. in one terminal, run cc_server.py
+2. in another terminal, run cc_client.py
+
+This will set up a connection between the client and server and you will be able to see the covert messages
+as the server detects and decodes them.
+
+Additionally, if you want to see how normal traffic looks to the server:
+
+3. in a third terminal, run normal_traffic.py
+
+
+**To see the TCP ISN covert channel usage docs, please see my partners submissio**
