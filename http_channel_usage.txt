@@ -2,6 +2,7 @@ Alena Manchester
 CSEC.750.01
 Proof of concept usage document
 
+For this covert channel, you will need 3 terminals and to make sure python is installed.
 
 In order to run the http covert channel:
 
@@ -16,4 +17,4 @@ Additionally, if you want to see how normal traffic looks to the server:
 3. in a third terminal, run normal_traffic.py
 
 
-**To see the TCP ISN covert channel usage docs, please see my partners submissio**
+**To see the TCP ISN covert channel usage docs, please see my partners submission**
